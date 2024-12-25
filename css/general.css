@@ -1,0 +1,35 @@
+/*
+
+
+## Colors
+
+
+/*
+
+
+- Font size: 00px;
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: solid red ; */
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
